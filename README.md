@@ -16,7 +16,8 @@
            - Recommendations
            - Citations 
     - Visualizations
-        - Stand-alone png's derived from Juypernotebook exports of seaborn/scipi/matplotlib visualizations.
+        - Stand-alone png's derived from Juypernotebook exports of 
+        'seaborn'/'scipi'/'matplotlib' visualizations.
 ### 04: Deliverables
   -  Client-sent version of Final Report
   -  Opening Achievement 4 assignment on the importance, use cases, and advantages of Python versus other tools in a Data Analyst's toolkit.
